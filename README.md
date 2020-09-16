@@ -1,0 +1,2 @@
+# CamGWAS
+Cameroon Malaria GWAS
